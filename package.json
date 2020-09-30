@@ -1,7 +1,23 @@
 {
-  "name": "root",
+  "name": "@lp0124/test",
   "private": true,
   "devDependencies": {
     "lerna": "^3.21.0"
-  }
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lp0124/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lp0124/test/issues"
+  },
+  "homepage": "https://github.com/lp0124/test#readme",
+  "description": ""
 }
